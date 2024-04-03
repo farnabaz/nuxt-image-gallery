@@ -1,7 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxthub/core'],
-
   $development: {
     hub: {
       remote: true,
@@ -13,6 +11,7 @@ export default defineNuxtConfig({
   },
 
   modules: [
+    '@nuxthub/core',
     '@nuxt/fonts',
     '@nuxt/ui',
     '@vueuse/nuxt',
