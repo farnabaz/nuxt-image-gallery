@@ -1,6 +1,6 @@
 <template>
   <main>
-    1
+    2
     <ImageGallery />
   </main>
 </template>
