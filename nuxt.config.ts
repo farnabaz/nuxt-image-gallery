@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  extends: ['@nuxthub/core'],
+  modules: ['@nuxthub/core'],
 
   $development: {
     hub: {
