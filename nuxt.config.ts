@@ -5,6 +5,9 @@ export default defineNuxtConfig({
       remote: true,
     },
   },
+  hub: {
+    blob: true,
+  },
 
   experimental: {
     viewTransition: true,
