@@ -5,9 +5,9 @@ pages_build_output_dir = "/dist"
 # binding = "ANALYTICS"
 # dataset = "nuxt_image_gall_3o1m"
 
-[[env.production.r2_buckets]]
-binding = "BLOB"
-bucket_name = "nuxt-image-gall-3o1m"
+# [[env.production.r2_buckets]]
+# binding = "BLOB"
+# bucket_name = "nuxt-image-gall-3o1m"
 
 # [[env.production.kv_namespaces]]
 # binding = "CACHE"
