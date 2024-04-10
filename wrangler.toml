@@ -7,7 +7,7 @@ compatibility_date = "2024-04-05"
 compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-NUXT_HUB_URL=https://fix-before-build.nuxthub.pages.dev
+NUXT_HUB_URL = https://fix-before-build.nuxthub.pages.dev
 
 
 # [[env.production.analytics_engine_datasets]]
