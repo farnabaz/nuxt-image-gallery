@@ -1,4 +1,5 @@
 name = "nuxt-image-gall-3o1m"
+pages_build_output_dir = "/dist"
 
 [[env.production.analytics_engine_datasets]]
 binding = "ANALYTICS"
